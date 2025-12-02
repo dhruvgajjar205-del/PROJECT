@@ -1,0 +1,68 @@
+{
+    "1": {
+        "name": "Apple iPhone 14 Pro",
+        "price": 60000,
+        "description": "Latest iOS smartphone with advanced features",
+        "image": "https://images.unsplash.com/photo-1592750475338-74b7b21085ab?w=200&h=150&fit=crop"
+    },
+    "2": {
+        "name": "Sony Wireless Headphones",
+        "price": 15000,
+        "description": "Noise-cancelling wireless headphones",
+        "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=200&h=150&fit=crop"
+    },
+    "3": {
+        "name": "Canon DSLR Camera",
+        "price": 50000,
+        "description": "Professional digital camera for photography",
+        "image": "https://images.unsplash.com/photo-1606983340126-99ab4feaa64a?w=200&h=150&fit=crop"
+    },
+    "4": {
+        "name": "HP Laser Printer",
+        "price": 12000,
+        "description": "High-speed color laser printer",
+        "image": "https://images.unsplash.com/photo-1587825140708-dfaf72ae4b04?w=200&h=150&fit=crop"
+    },
+    "5": {
+        "name": "JBL Home Speaker",
+        "price": 25000,
+        "description": "Smart home speaker system with voice control",
+        "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=200&h=150&fit=crop"
+    },
+    "6": {
+        "name": "Microsoft Surface Laptop",
+        "price": 80000,
+        "description": "Premium 2-in-1 laptop for productivity",
+        "image": "https://images.unsplash.com/photo-1588872657578-7efd1f1555ed?w=200&h=150&fit=crop"
+    },
+    "7": {
+        "name": "Dell Laptop",
+        "price": 45000,
+        "description": "High-performance laptop for work and gaming",
+        "image": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=200&h=150&fit=crop"
+    },
+    "8": {
+        "name": "Samsung Smartphone",
+        "price": 25000,
+        "description": "Latest Android smartphone with advanced features",
+        "image": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=200&h=150&fit=crop"
+    },
+    "9": {
+        "name": "LG LED TV",
+        "price": 35000,
+        "description": "55-inch 4K LED TV with smart features",
+        "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=200&h=150&fit=crop"
+    },
+    "10": {
+        "name": "Whirlpool Refrigerator",
+        "price": 28000,
+        "description": "Double door refrigerator with frost-free technology",
+        "image": "https://images.unsplash.com/photo-1584568694244-14e61205dd8b?w=200&h=150&fit=crop"
+    },
+    "11": {
+        "name": "LG Washing Machine",
+        "price": 22000,
+        "description": "Fully automatic front-load washing machine",
+        "image": "https://images.unsplash.com/photo-1626806787426-5910811b6325?w=200&h=150&fit=crop"
+    }
+}

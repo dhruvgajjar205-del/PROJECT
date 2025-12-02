@@ -1,0 +1,16 @@
+<?php
+include 'functions.php';
+
+if ($_SERVER['REQUEST_METHOD'] === 'POST') {
+    $productId = $_POST['product_id'] ?? 0;
+    $quantity = $_POST['quantity'] ?? 1;
+
+    if ($productId > 0 && $quantity > 0) {
+        addToCart($productId, $quantity);
+    }
+}
+
+// Redirect back to index
+header('Location: index.php');
+exit();
+?>

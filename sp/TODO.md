@@ -1,0 +1,7 @@
+- [ ] Update composer.json to add Stripe PHP SDK dependency
+- [ ] Run composer install to install Stripe SDK
+- [ ] Add Stripe API keys (publishable and secret) to config.php
+- [ ] Add Stripe payment functions (createStripePaymentIntent, verifyStripePayment) to functions.php
+- [ ] Modify checkout.php to include Stripe as a payment option and handle Stripe payment creation
+- [ ] Update payment_success.php to handle Stripe payment verification and order saving
+- [ ] Test Stripe integration in checkout flow
